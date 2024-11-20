@@ -3,4 +3,5 @@
 aka.ms/ignite-lab-441
 https://aka.ms/extend-copilot
 /n
-copilotdevcamp
+
+https://microsoft.github.io/copilot-camp/
